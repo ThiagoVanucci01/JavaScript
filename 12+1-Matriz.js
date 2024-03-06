@@ -15,3 +15,4 @@ console.log("Matriz[2,0]", matriz[2][0]);
 matriz[1][2] = 20;
 matriz[2][0] = 30;
 console.table(matriz);
+
